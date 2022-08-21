@@ -1,0 +1,8 @@
+name: DatouSkywars
+version: '${project.version}'
+main: me.hong.datouskywars.Main
+api-version: 1.13
+authors: [ Hong ]
+description: A skywars plugin.
+commands:
+  config:

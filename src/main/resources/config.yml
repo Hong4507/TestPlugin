@@ -1,0 +1,8 @@
+Test:
+  String: 'Cocomelon'
+Number: 1
+Boolean: True
+String-List:
+  - 'So'
+  - 'Fucking'
+  - 'Genius'
